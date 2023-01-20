@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="Portugal",PT: A BOLA TV SD
-http://120972280412307553.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307553.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BABY TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/45/BabyTV.png" group-title="Portugal",PT: BABY TV SD
+http://120972280412307575.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307575.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: AFRO MUSIC SD" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jBxIgqnZjUN80V1P4wZ2RHo.png" group-title="Portugal",PT: AFRO MUSIC SD
 http://120972280412307557.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307557.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: AMC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/1280px-Amc_logo.svg.png" group-title="Portugal",PT: AMC SD

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 SD" tvg-logo="https://tvepg.eu/img/belgium/logo/eleven_sports_3.png" group-title="Portugal",PT: ELEVEN SPORTS 3 SD
+http://120972280412307664.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307664.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: BABY TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/45/BabyTV.png" group-title="Portugal",PT: BABY TV SD
 http://120972280412307575.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307575.ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: AFRO MUSIC SD" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jBxIgqnZjUN80V1P4wZ2RHo.png" group-title="Portugal",PT: AFRO MUSIC SD

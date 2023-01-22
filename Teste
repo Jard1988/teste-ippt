@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="RTP 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/RTP.png" group-title="Portugal",RTP 1
 http://120972280412318326.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/318326.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP 2 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/RTP2.png/500px-RTP2.png" group-title="Portugal",RTP 2 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/RTP2.png/500px-RTP2.png" group-title="Portugal",RTP 2
 http://848917980427375555.nicema.xyz:80/play/hu0114472/N7bjC$qjWh9/375555.ts
 #EXTINF:-1 tvg-id="" tvg-name="SIC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/31/SIC_logo_2018.png" group-title="Portugal",SIC
 http://120972280412339540.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/339540.ts
@@ -85,7 +85,7 @@ http://120972280412339487.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/339487.ts
 http://120972280412339526.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/339526.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Portugal",FOX LIFE
 http://120972280412307693.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307693.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX CRIME " tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2f3c49b8da53fa454dfc53594b282f8a.png" group-title="Arab United Emirates",AE: FOX CRIME 
+#EXTINF:-1 tvg-id="" tvg-name="FOX CRIME " tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2f3c49b8da53fa454dfc53594b282f8a.png" group-title="Arab United Emirates",FOX CRIME 
 http://848917980427291559.nicema.xyz:80/play/hu0114472/N7bjC$qjWh9/291559.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2016/01/fox_comedy-blue_330X182.png" group-title="Portugal",FOX COMEDY
 http://120972280412339520.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/339520.ts
@@ -167,7 +167,7 @@ http://120972280412307701.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307701.ts
 http://120972280412307735.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307735.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="" group-title="Portugal",FOOD NETWORK
 http://848917980427380205.nicema.xyz:80/play/hu0114472/N7bjC$qjWh9/380205.ts
-#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="PL: FIGHTBOX" tvg-logo="" group-title="Poland",PL: FIGHTBOX
+#EXTINF:-1 tvg-id="fightbox.pl" tvg-name="FIGHTBOX" tvg-logo="" group-title="Poland",PL: FIGHTBOX
 http://848917980427309905.nicema.xyz:80/play/hu0114472/N7bjC$qjWh9/309905.ts
 #EXTINF:-1 tvg-id="" tvg-name="KOMBAT SPORT " tvg-logo="https://www.bce.lu/wp-content/uploads/2016/06/LOGO-Kombat_Sport.png" group-title="Portugal",KOMBAT SPORT 
 http://848917980427375548.nicema.xyz:80/play/hu0114472/N7bjC$qjWh9/375548.ts
@@ -211,7 +211,7 @@ http://120972280412307785.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307785.ts
 http://120972280412307782.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307782.ts
 #EXTINF:-1 tvg-id="" tvg-name="RTP AFRICA " tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4b/RTP_%C3%81frica_logo_2012.png" group-title="Portugal",RTP AFRICA 
 http://120972280412307783.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307783.ts
-EXTINF:-1 tvg-id="" tvg-name="SIC INTERNACIONAL" tvg-logo="http://tudoaqui.xyz/LOGOS/picons/SIC_Internacional.png" group-title="Portugal",SIC INTERNACIONAL
+#EXTINF:-1 tvg-id="" tvg-name="SIC INTERNACIONAL" tvg-logo="http://tudoaqui.xyz/LOGOS/picons/SIC_Internacional.png" group-title="Portugal",SIC INTERNACIONAL
 http://848917980427380211.nicema.xyz:80/play/hu0114472/N7bjC$qjWh9/380211.ts
 #EXTINF:-1 tvg-id="" tvg-name="ARTV " tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/04/ARTV-Canal-Parlamento.png" group-title="Portugal",ARTV 
 http://120972280412307562.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307562.ts

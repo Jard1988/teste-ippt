@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="  RTP 1  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/RTP.png" group-title="Portugal",  RTP 1  
 http://120972280412318326.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/318326.ts
-#EXTINF:-1 tvg-id="" tvg-name="  RTP 2  " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/RTP2.png/500px-RTP2.png" group-title="Portugal",  RTP 2  
-http://120972280412318115.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/318115.ts
+#EXTINF:-1 tvg-id="" tvg-name=" RTP 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/RTP2.png/500px-RTP2.png" group-title="Portugal",RTP 2
+http://154436480384380837.niceyour.xyz:80/play/hu0114472/N7bjC$qjWh9/380837.ts
 #EXTINF:-1 tvg-id="" tvg-name="  SIC  " tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/31/SIC_logo_2018.png" group-title="Portugal",  SIC  
 http://120972280412339540.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/339540.ts
 #EXTINF:-1 tvg-id="" tvg-name="  TVI  " tvg-logo="https://upload.wikimedia.org/wikipedia/he/6/63/TVI_logo_2017.png" group-title="Portugal",  TVI  
@@ -61,11 +61,11 @@ http://120972280412364551.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/364551.ts
 http://120972280412372751.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/372751.ts
 #EXTINF:-1 tvg-id="" tvg-name="  NOS STUDIOS  " tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/06/NOS-Studios.png" group-title="Portugal",  NOS STUDIOS  
 http://120972280412375552.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/375552.ts
-#EXTINF:-1 tvg-id="" tvg-name="  TVCINE TOP  " tvg-logo="" group-title="Portugal",  TVCINE TOP  
-http://120972280412353645.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/353645.ts
-#EXTINF:-1 tvg-id="" tvg-name="  TVCINE EDITION  " tvg-logo="" group-title="Portugal",  TVCINE EDITION  
-http://120972280412368703.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/368703.ts
-#EXTINF:-1 tvg-id="" tvg-name="  TVCINE EMOTION  " tvg-logo="" group-title="Portugal",  TVCINE EMOTION  
+#EXTINF:-1 tvg-id="" tvg-name="  TVCINE TOP  " tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_-TOP_FUNDOS-CLAROS.png" group-title="Portugal",  TVCINE TOP  
+http://154436480384386770.niceyour.xyz:80/play/hu0114472/N7bjC$qjWh9/386770.ts
+#EXTINF:-1 tvg-id="" tvg-name="  TVCINE EDITION  " tvg-logo="https://i1.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EDITION_FUNDOS-CLAROS.png" group-title="Portugal",  TVCINE EDITION  
+"https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EMOTION_FUNDOS-CLAROS.png"
+#EXTINF:-1 tvg-id="" tvg-name="  TVCINE EMOTION  " tvg-logo="https://i2.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_EMOTION_FUNDOS-CLAROS.png" group-title="Portugal",  TVCINE EMOTION  
 http://120972280412372779.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/372779.ts
 #EXTINF:-1 tvg-id="" tvg-name="  TV CINE ACTION  " tvg-logo="https://i0.wp.com/www.thegoldentake.com/wp-content/uploads/TVCine_ACTION_FUNDOS-CLAROS.png" group-title="Portugal",  TV CINE ACTION  
 http://120972280412339558.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/339558.ts
@@ -225,8 +225,6 @@ http://120972280412375558.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/375558.ts
 http://120972280412307562.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307562.ts
 #EXTINF:-1 tvg-id="" tvg-name="  GALICIA TV  " tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Television_de_Galicia.svg/1200px-Television_de_Galicia.svg.png" group-title="Portugal",  GALICIA TV  
 http://120972280412364533.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/364533.ts
-
-
 #EXTINF:-1 tvg-id="" tvg-name="  ALMALUSA  " tvg-logo="" group-title="Portugal",  ALMALUSA  
 http://120972280412311211.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/311211.ts
 #EXTINF:-1 tvg-id="" tvg-name="  1+1  " tvg-logo="" group-title="Portugal",  1+1  

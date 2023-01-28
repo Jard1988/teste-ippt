@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="  RTP 1  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/RTP.png" group-title="Portugal",  RTP 1  
 http://120972280412318326.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/318326.ts
-#EXTINF:-1 tvg-id="" tvg-name=" RTP 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/RTP2.png/500px-RTP2.png" group-title="Portugal",RTP 2
+#EXTINF:-1 tvg-id="" tvg-name=" RTP 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/RTP2.png/500px-RTP2.png" group-title="Portugal", RTP 2
 http://154436480384380837.niceyour.xyz:80/play/hu0114472/N7bjC$qjWh9/380837.ts
 #EXTINF:-1 tvg-id="" tvg-name="  SIC  " tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/31/SIC_logo_2018.png" group-title="Portugal",  SIC  
 http://120972280412339540.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/339540.ts
@@ -12,7 +12,7 @@ http://120972280412339537.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/339537.ts
 #EXTINF:-1 tvg-id="" tvg-name="  RTP 3  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rtp3.png/1200px-Rtp3.png" group-title="Portugal",  RTP 3  
 http://120972280412307781.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307781.ts
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-name="  CMTV  " tvg-logo="" group-title="Portugal",  CMTV  
-http://120972280412364510.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/364510.ts
+http://154436480384385905.niceyour.xyz:80/play/hu0114472/N7bjC$qjWh9/385905.ts
 #EXTINF:-1 tvg-id="" tvg-name="  CANAL 11  " tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/93673aa325443895b136366bbfc38fc4.png" group-title="Portugal",  CANAL 11  
 http://120972280412307600.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307600.ts
 #EXTINF:-1 tvg-id="" tvg-name="  TVI REALITY  " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/49/Tvi_reality.png" group-title="Portugal",  TVI REALITY  
@@ -20,7 +20,7 @@ http://120972280412339570.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/339570.ts
 #EXTINF:-1 tvg-id="" tvg-name="  SIC MULHER  " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6a/Logo_sem_fundo_SIC_Mulher.png" group-title="Portugal",  SIC MULHER  
 http://120972280412339536.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/339536.ts
 #EXTINF:-1 tvg-id="" tvg-name="  SIC CARAS  " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" group-title="Portugal",  SIC CARAS  
-http://120972280412369939.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/369939.ts
+http://154436480384380840.niceyour.xyz:80/play/hu0114472/N7bjC$qjWh9/380840.ts
 #EXTINF:-1 tvg-id="" tvg-name="  SIC RADICAL  " tvg-logo="https://pbs.twimg.com/profile_images/603915491103666177/-PFXaSvQ_400x400.png" group-title="Portugal",  SIC RADICAL  
 http://120972280412339539.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/339539.ts
 #EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="  SPORT TV +  " tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="Portugal",  SPORT TV +  
@@ -40,9 +40,9 @@ http://120972280412307841.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307841.ts
 #EXTINF:-1 tvg-id="" tvg-name="  SPORT TV NBA  " tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="Portugal",  SPORT TV NBA  
 http://120972280412375567.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/375567.ts
 #EXTINF:-1 tvg-id="" tvg-name="  BTV  " tvg-logo="" group-title="Portugal",  BTV  
-http://120972280412355693.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/355693.ts
+http://154436480384307592.niceyour.xyz:80/play/hu0114472/N7bjC$qjWh9/307592.ts
 #EXTINF:-1 tvg-id="" tvg-name="  PORTO CANAL  " tvg-logo="https://rotaportoliberal.pt/media/2017/07/logo-porto-canal.png" group-title="Portugal",  PORTO CANAL  
-http://120972280412307767.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/307767.ts
+http://154436480384385929.niceyour.xyz:80/play/hu0114472/N7bjC$qjWh9/385929.ts
 #EXTINF:-1 tvg-id="" tvg-name="  ELEVEN SPORTS 1  " tvg-logo="https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png" group-title="Portugal",  ELEVEN SPORTS 1  
 http://120972280412374671.nicesbt.xyz:80/play/hu0114472/N7bjC$qjWh9/374671.ts
 #EXTINF:-1 tvg-id="" tvg-name="  ELEVEN SPORTS 2  " tvg-logo="https://sport-tv-guide.live/images/stations/a633.png" group-title="Portugal",  ELEVEN SPORTS 2  

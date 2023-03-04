@@ -27,8 +27,10 @@ http://352610080792339539.discoveryapp.xyz:80/play/hu0114472/N7bjC$qjWh9/339539.
 http://694261280105402442.discoveryapp.xyz:80/play/hu0114472/N7bjC$qjWh9/402442.ts
 #EXTINF:-1 tvg-id="" tvg-name="  SPORT TV 1  " tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="Portugal",  SPORT TV 1
 http://352610080792307819.discoveryapp.xyz:80/play/hu0114472/N7bjC$qjWh9/307819.ts
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="  SPORT TV 2  " tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal",  SPORT TV 2
-http://352610080792359251.discoveryapp.xyz:80/play/hu0114472/N7bjC$qjWh9/359251.ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="  SPORT TV 2 HD " tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal",  SPORT TV 2
+http://555473780228405265.stonehuge.xyz:80/play/hu0114472/N7bjC$qjWh9/405265.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="Portugal", SPORT TV 2
+http://555473780228344189.stonehuge.xyz:80/play/hu0114472/N7bjC$qjWh9/344189.ts
 #EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="  SPORT TV 3  " tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="Portugal",  SPORT TV 3
 http://352610080792339545.discoveryapp.xyz:80/play/hu0114472/N7bjC$qjWh9/339545.ts
 #EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="  SPORT TV 4  " tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="Portugal",  SPORT TV 4
